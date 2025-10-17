@@ -7,5 +7,5 @@ body {
 }
 
 img {
-    width: 50vw;
+    width: min(50vw, 80vh);
 }
